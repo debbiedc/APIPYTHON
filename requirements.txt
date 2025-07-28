@@ -1,0 +1,5 @@
+fastapi==0.115.0        # Cria a API
+uvicorn==0.30.6         # Roda a API no computador
+supabase==2.9.1         # Conecta com o Supabase
+pydantic==2.9.2         # Valida os dados
+python-dotenv==1.0.1    # Lê o .env
